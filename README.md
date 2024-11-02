@@ -48,5 +48,5 @@ The simplified TrueSkill model assumes each player has an unknown skill $z_i \in
 
 ## References
 
-- Herbrich et al. (2007) - TrueSkill: A Bayesian Skill Rating System (\url{http://papers.nips.cc/paper/3079-trueskilltm-a-bayesian-skill-rating-system.pdf})
-- Carl Rasmussen's probabilistic machine learning course (\url{http://mlg.eng.cam.ac.uk/teaching/4f13/1920/})
+- Herbrich et al. (2007) - TrueSkill: A Bayesian Skill Rating System (http://papers.nips.cc/paper/3079-trueskilltm-a-bayesian-skill-rating-system.pdf)
+- Carl Rasmussen's probabilistic machine learning course (http://mlg.eng.cam.ac.uk/teaching/4f13/1920/)
