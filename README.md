@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This repository implements Stochastic Variational Inference (SVI) for the TrueSkill model, a Bayesian player ranking system for competitive games. The goal is to estimate the posterior distribution of player skills, represented by continuous latent variables.
+This repository implements Stochastic Variational Inference (SVI) for the TrueSkill model, a Bayesian player ranking system for competitive games. The goal is to estimate the posterior distribution of player skills, represented by continuous latent variables. (Part of course assignment for STA414/STA2014 and CSC412/CSC2506, University of Toronto, Winter 2020)
 
 ## Background
 
